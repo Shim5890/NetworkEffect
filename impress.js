@@ -1,5 +1,35 @@
 <!doctype html>
 
+<html lang="en"> 
+
+
+<head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=1024" /> 
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <center> <title>The Turing Test</title> </center>
+
+
+    <meta name="description" content='Our brains are connection machines. So is Excel' />
+
+    <meta name="author" content="Rich Hildred" />
+
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="https://impress.github.io/impress.js/css/impress-demo.css" rel="stylesheet" />
+
+
+
+
+
+
+<!doctype html>
+
 </div>
 <div  id='slide1' class='step slide' data-x='-750' data-y='7100'>
 <h1>Network Effect</h1>
@@ -75,3 +105,43 @@
 <p>Lee, A. (2011, June 30). Myspace Collapse: How The Social Network Fell Apart. Retrieved September 21, 2015.</p> 
 <p>MySpace: What Happened and Where Is It Now? | Appleton Creative. (2013, December 19). Retrieved September 21, 2015.</p>
 </div>
+
+
+
+   
+
+    
+
+  
+    
+    <div class="hint"> 
+
+        <p>Use a spacebar or arrow keys to navigate</p>
+
+    </div>
+
+    <script>
+
+        if ("ontouchstart" in document.documentElement) {
+
+            document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+
+        }
+
+    </script>
+
+
+
+    <script src="https://impress.github.io/impress.js/js/impress.js"></script>
+
+    <script>
+
+        impress().init(); 
+
+    </script> 
+
+
+</body>
+
+
+</html>
